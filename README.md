@@ -1,1 +1,3 @@
-# firts
+  program test
+  write(*,*)'hello'
+  end
